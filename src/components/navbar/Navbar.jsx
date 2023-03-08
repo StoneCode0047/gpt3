@@ -13,7 +13,7 @@ const Menu =() =>(
             <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#wgptt3">What is GPT3</a>
+            <a href="#whpt3">What is GPT3</a>
           </p>
           <p>
             <a href="#possibility">Open AI</a>

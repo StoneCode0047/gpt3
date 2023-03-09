@@ -10,10 +10,10 @@ const Header = () => {
           Let's Build Something Amazing With GPT-3 OpenAI
         </h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum et
-          illo iusto accusantium nemo laudantium! Quisquam, amet? Ipsam,
-          molestias dolor. Aspernatur, cupiditate dolore exercitationem ducimus
-          accusamus ullam possimus fuga voluptatum.
+          Yet bed any for travelling assistance indulgence unpleasing. Not
+          thoughts all exercise blessing. Indulgence way everything joy
+          alteration boisterous the attachment. Party we years to order allow
+          asked of.
         </p>
 
         <div className="gpt3__header-content_input">
